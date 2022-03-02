@@ -6,3 +6,5 @@ De este modo, incentivamos a los alumnos de todas las carreras a tomar concienci
 El objetivo de este evento es promover el uso de la IA en la vida cotidiana y profesional, a través de la presentación de modelos IA en distintas áreas; como el emprendimiento, psicología, educación, derecho, etc.
 
 Por otro lado, se busca que los alumnos puedan generar un espacio de intercambio y networking, para conocerse entre ellos y generar proyectos en conjunto.
+
+Este README fue escrito de manera colectiva entre [@satelerd](https://github.com/satelerd) y [GPT-3](https://openai.com/api/)
